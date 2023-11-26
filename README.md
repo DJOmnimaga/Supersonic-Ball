@@ -1,6 +1,6 @@
 Supersonic Ball: 15 MHz Version  
 Version 1.2.0  
-2013-21 DJ Omnimaga Music (some physics code by Builderboy)  
+2013-21 Dream of Omnimaga (some physics code by Builderboy)  
 Website: https://djomnimaga.music-2000.com
 
 
